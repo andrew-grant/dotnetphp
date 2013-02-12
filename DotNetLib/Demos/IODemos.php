@@ -1,7 +1,7 @@
 <?php
 
 require_once("../IO/TextReader.php");
-$filepath = "test.txt";
+$filepath = "IODemo.txt";
 
 ?>
  
